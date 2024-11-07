@@ -33,3 +33,5 @@ docker compose up app -d --build
 docker compose -f docker-compose.yaml up -d --build
 ```
 
+> Все docker команды описаны, в папке docker-compose
+
