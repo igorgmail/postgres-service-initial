@@ -1,0 +1,6 @@
+POSTGRES_USER=user
+POSTGRES_PASSWORD=12345
+POSTGRES_DB=gy_db
+POSTGRES_PORT=5432
+DEV_DB_URL=postgres://user:12345@localhost:5434/gy_db
+PROD_DB_URL=postgres://user:12345@postgres:5432/gy_db
